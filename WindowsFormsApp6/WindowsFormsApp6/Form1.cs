@@ -21,6 +21,11 @@ namespace WindowsFormsApp6
         {
             MessageBox.Show("Method 1");
         }
+
+        public void method2()
+        {
+            MessageBox.Show("Method 2");
+        }
         
     }
 }
