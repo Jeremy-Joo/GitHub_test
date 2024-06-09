@@ -14,5 +14,10 @@ namespace WindowsFormsApp6
             Console.WriteLine("Method 2");
         }
 
+        public void method4_Branch()
+        {
+            Console.WriteLine("Method 2");
+        }
+
     }
 }
